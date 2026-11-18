@@ -12,7 +12,7 @@ global surrogate), eksperymentami wierności i stabilności wyjaśnień, kalibra
 | `projekt1_rating.ipynb` | cały pipeline: dane → EDA → cechy → walidacja → modele → wyjaśnialność → kalibracja 4% → progi / ratingi → kontrfakty → audyt i monitoring |
 | `RAPORT.md` | raport techniczny z pełnymi wynikami |
 | `MODEL_CARD.md` | karta modelu: cel, dane, ograniczenia, wyjaśnienia, kalibracja 4%, monitoring, użycie AI |
-| `prezentacja_projekt1.pptx` | prezentacja dla osób nietechnicznych (12 slajdów) |
+| `prezentacja_projekt1.pdf` | prezentacja dla osób nietechnicznych|
 | `dane/` | `zbior_13.csv`, słownik zmiennych (PDF i CSV) |
 | `wyniki/` | zapisany podział (`podzial.csv`), zestawy cech (`cechy_v1.json`, `cechy_karty.json`), parametry XGBoost, PD na teście, podsumowanie |
 | `wykresy/` | wykresy użyte w raporcie i prezentacji (m.in. `surogat.png` - drzewo surogatu, `waterfall_graniczna_4proc.png` - SHAP modelu końcowego dla firmy granicznej przy progu operacyjnym) |
